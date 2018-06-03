@@ -1,8 +1,8 @@
 ############################ "Global Mart"  #################################
 
-# 1. Business Understanding
+### 1. Business Understanding
 
-# we need to find out 2 most profitable (and consistent) segment 
+## we need to find out 2 most profitable (and consistent) segment 
 # from these 21 and forecast the sales and demand for these segments.
 
 
